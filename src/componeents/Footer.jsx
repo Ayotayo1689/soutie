@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="bg-white border-t border-gray-200 mt-16">
       <div className="max-w-7xl mx-auto px-4 py-12">
-        <div className="grid border justify-between grid-cols-1 md:grid-cols-2 gap-12 mb-12">
+        <div className="flex flex-wrap  justify-between grid-cols-1 md:grid-cols-2 gap-12 mb-12">
           <div>
             <h3 className="text-lg font-bold mb-4">JOIN THE COMMUNITY.</h3>
             <p className="text-sm text-gray-600 mb-4">You Will Receive All The Information Regarding The Next Drops.</p>
