@@ -15,6 +15,14 @@ export default function Home({ addToCart }) {
             muted
             loop
             playsInline
+            preload="auto"
+            webkit-playsinline="true"
+            x-webkit-airplay="allow"
+            x5-video-player-type="h5"
+            x5-video-orientation="portrait"
+            x5-playsinline="true"
+            disablePictureInPicture
+            controls={false}
           >
             <source
               src="https://www.shutterstock.com/shutterstock/videos/1098864383/preview/stock-footage-silhouette-of-a-man-putting-on-his-jacket-in-dark-room-on-the-background-of-the-window-close-up.webm"
@@ -29,6 +37,14 @@ export default function Home({ addToCart }) {
             muted
             loop
             playsInline
+            preload="auto"
+            webkit-playsinline="true"
+            x-webkit-airplay="allow"
+            x5-video-player-type="h5"
+            x5-video-orientation="portrait"
+            x5-playsinline="true"
+            disablePictureInPicture
+            controls={false}
           >
             <source
               src="https://www.shutterstock.com/shutterstock/videos/1112105367/preview/stock-footage-content-stylish-young-black-man-in-his-s-enjoys-dancing-while-listening-to-an-online-playlist.webm"

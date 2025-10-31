@@ -44,6 +44,11 @@ a:hover {
   scrollbar-width: none;
 }
 
+video::-webkit-media-controls {
+  display: none !important;
+  -webkit-appearance: none;
+}
+
 .hide-scrollbar::-webkit-scrollbar {
   display: none;
 }
