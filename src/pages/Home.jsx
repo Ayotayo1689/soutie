@@ -99,7 +99,7 @@ export default function Home({ addToCart }) {
       </section>
 
       {/* Lifestyle Section */}
-      <section className="bg-gray-100  mb-16">
+      <section className="bg-gray-100  overflow-clip  mb-16">
         <div className="   ">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-1">
             <div className="md:h-[90vh] aspect-square bg-gray-300 flex items-center justify-center">
